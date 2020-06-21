@@ -1,0 +1,6 @@
+
+{
+  "searchField":{"css": "[title=\"Search for products, brands and more\"]"},
+  "device":{"xpath": "//div[@class=\"_1-2Iqu row\"]//div[text()='Apple iPhone XR (Yellow, 64 GB)']"},
+  "loginPopUp": {"css": "[class=\"_2AkmmA _29YdH8\"]"}
+}
